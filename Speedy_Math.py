@@ -1,5 +1,5 @@
 
-    #Math Practice
+    #Speedy Math
 #   choice(), eval(), time.time(), round()
 
 import random
