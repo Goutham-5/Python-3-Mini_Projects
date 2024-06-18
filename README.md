@@ -1,3 +1,3 @@
 # Python-3-Mini_Projects
-Pyhton Mini Projects
+Python Mini Projects
 3 Python Mini Projects
